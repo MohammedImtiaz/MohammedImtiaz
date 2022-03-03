@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ## By the way here are some of my statistics 🚀
 ![Imtiaz's github stats](https://github-readme-stats.vercel.app/api?username=MohammedImtiaz&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/> -->
 ![Imtiaz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedImtiaz&theme=tokyonight&layout=compact)
