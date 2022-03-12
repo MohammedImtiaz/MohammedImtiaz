@@ -2,9 +2,7 @@
 <p align="center">️<small>Enthusiast learner and explorer.</small></p>
 
 <p align="center">
-<!-- <a href="https://github.com/rafathossain/rafathossain/blob/master/LICENCE">
-<img alt="Licence" src="https://img.shields.io/github/license/rafathossain/rafathossain?color=brightgreen&label=LICENCE&logo=MIT"/>
-</a> -->
+<img src="https://komarev.com/ghpvc/?username=MohammedImtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="MohammedImtiaz" />
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/MohammedImtiaz/MohammedImtiaz?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 </br>
@@ -13,8 +11,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-<!-- - I'm aspiring Server Administrator & Full Stack Web Developer currently working on **Django**. -->
-<!-- - I always like working in **Linux** Environment. -->
+
 - I'm currently in final semester of my B.TECH & I am continuously learning frontend technologies to improve my skills.
 - I'm a knowledge seeker & I love to learn new **Technologies**.
 
