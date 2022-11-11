@@ -12,7 +12,7 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 
-- I'm currently in final semester of my B.TECH & I am continuously learning frontend technologies to improve my skills.
+- I completed my B.TECH in June, 2022 & I am continuously learning frontend technologies to improve my skills.
 - I'm a knowledge seeker & I love to learn new **Technologies**.
 
 ---
